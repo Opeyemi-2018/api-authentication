@@ -1,0 +1,21 @@
+{
+  "name": "rest-api-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nedb": "^1.8.0",
+    "nedb-promises": "^6.2.3",
+    "nodemon": "^3.1.0",
+    "promises": "^0.2.5"
+  }
+}
